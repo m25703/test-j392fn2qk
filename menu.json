@@ -1,0 +1,45 @@
+{
+    "sunday": {
+      "breakfast": ["Poha", "Sev / Namkeen", "Boiled Sweet Corn", "Omelette", "Banana", "Corn Flakes", "BBJ / Pickle", "Coffee / Bournvita / Milk"],
+      "lunch": ["Lemon Rice", "Plain Rice", "Moong Dal", "Rasam", "Torai Chana Dry", "Chole Masala", "Plain Roti / Fulka Roti", "Buttermilk", "Green Chilli / Lemon Slices", "Salad / Papad / Pickle"],
+      "snacks": ["Vada Pav", "Green Chutney & Dry Red Chutney", "Banana", "BBJ / Tea / Coffee"],
+      "dinner": ["Plain Rice", "Mix Dal", "Black Channa Masala Dry", "Aloo Rasewalla", "Poori", "Green Chilli / Lemon Slices", "Salad / Papad / Pickle", "Kheer"]
+    },
+    "monday": {
+      "breakfast": ["Upma / Sheera", "Coconut Chutney", "Boiled Peanuts", "Boiled Egg", "Banana", "Corn Flakes", "BBJ / Pickle", "Coffee / Bournvita / Milk"],
+      "lunch": ["Onion Fried Rice", "Plain Rice", "Arhar Dal", "Sambhar", "Moong Masala Dry", "Gobi Mutter Rasewalla", "Plain Roti / Butter Roti", "Buttermilk", "Green Chilli / Lemon Slices", "Salad / Papad / Pickle"],
+      "snacks": ["Dahi Wada", "Banana", "BBJ / Tea / Coffee"],
+      "dinner": ["Corn Rice", "Plain Rice", "Moong Dal", "Paneer Kohlapuri", "Plain Roti / Fulka Roti", "Green Chilli / Lemon Slices", "Salad / Papad / Pickle", "Gulab Jamun"]
+    },
+    "tuesday": {
+      "breakfast": ["Poha", "Sev / Namkeen", "Boiled Sweet Corn", "Omelette", "Banana", "Corn Flakes", "BBJ / Pickle", "Coffee / Bournvita / Milk"],
+      "lunch": ["Lemon Rice", "Plain Rice", "Moong Dal", "Rasam", "Torai Chana Dry", "Chole Masala", "Plain Roti / Fulka Roti", "Buttermilk", "Green Chilli / Lemon Slices", "Salad / Papad / Pickle"],
+      "snacks": ["Vada Pav", "Green Chutney & Dry Red Chutney", "Banana", "BBJ / Tea / Coffee"],
+      "dinner": ["Plain Rice", "Mix Dal", "Black Channa Masala Dry", "Aloo Rasewalla", "Poori", "Green Chilli / Lemon Slices", "Salad / Papad / Pickle", "Kheer"]
+    },
+    "wednesday": {
+      "breakfast": ["Poha", "Sev / Namkeen", "Boiled Sweet Corn", "Omelette", "Banana", "Corn Flakes", "BBJ / Pickle", "Coffee / Bournvita / Milk"],
+      "lunch": ["Lemon Rice", "Plain Rice", "Moong Dal", "Rasam", "Torai Chana Dry", "Chole Masala", "Plain Roti / Fulka Roti", "Buttermilk", "Green Chilli / Lemon Slices", "Salad / Papad / Pickle"],
+      "snacks": ["Vada Pav", "Green Chutney & Dry Red Chutney", "Banana", "BBJ / Tea / Coffee"],
+      "dinner": ["Plain Rice", "Mix Dal", "Black Channa Masala Dry", "Aloo Rasewalla", "Poori", "Green Chilli / Lemon Slices", "Salad / Papad / Pickle", "Kheer"]
+    },
+    "thursday": {
+      "breakfast": ["Poha", "Sev / Namkeen", "Boiled Sweet Corn", "Omelette", "Banana", "Corn Flakes", "BBJ / Pickle", "Coffee / Bournvita / Milk"],
+      "lunch": ["Lemon Rice", "Plain Rice", "Moong Dal", "Rasam", "Torai Chana Dry", "Chole Masala", "Plain Roti / Fulka Roti", "Buttermilk", "Green Chilli / Lemon Slices", "Salad / Papad / Pickle"],
+      "snacks": ["Vada Pav", "Green Chutney & Dry Red Chutney", "Banana", "BBJ / Tea / Coffee"],
+      "dinner": ["Plain Rice", "Mix Dal", "Black Channa Masala Dry", "Aloo Rasewalla", "Poori", "Green Chilli / Lemon Slices", "Salad / Papad / Pickle", "Kheer"]
+    },
+    "friday": {
+      "breakfast": ["Poha", "Sev / Namkeen", "Boiled Sweet Corn", "Omelette", "Banana", "Corn Flakes", "BBJ / Pickle", "Coffee / Bournvita / Milk"],
+      "lunch": ["Lemon Rice", "Plain Rice", "Moong Dal", "Rasam", "Torai Chana Dry", "Chole Masala", "Plain Roti / Fulka Roti", "Buttermilk", "Green Chilli / Lemon Slices", "Salad / Papad / Pickle"],
+      "snacks": ["Vada Pav", "Green Chutney & Dry Red Chutney", "Banana", "BBJ / Tea / Coffee"],
+      "dinner": ["Plain Rice", "Mix Dal", "Black Channa Masala Dry", "Aloo Rasewalla", "Poori", "Green Chilli / Lemon Slices", "Salad / Papad / Pickle", "Kheer"]
+    },
+    "saturday": {
+      "breakfast": ["Poha", "Sev / Namkeen", "Boiled Sweet Corn", "Omelette", "Banana", "Corn Flakes", "BBJ / Pickle", "Coffee / Bournvita / Milk"],
+      "lunch": ["Lemon Rice", "Plain Rice", "Moong Dal", "Rasam", "Torai Chana Dry", "Chole Masala", "Plain Roti / Fulka Roti", "Buttermilk", "Green Chilli / Lemon Slices", "Salad / Papad / Pickle"],
+      "snacks": ["Vada Pav", "Green Chutney & Dry Red Chutney", "Banana", "BBJ / Tea / Coffee"],
+      "dinner": ["Plain Rice", "Mix Dal", "Black Channa Masala Dry", "Aloo Rasewalla", "Poori", "Green Chilli / Lemon Slices", "Salad / Papad / Pickle", "Kheer"]
+    }
+  }
+  
